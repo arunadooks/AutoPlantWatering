@@ -17,7 +17,7 @@ Materials:
 - Speaker
 
 Circuit Diagram:
-![1](https://github.com/user-attachments/assets/0b234796-b1d7-475f-8a10-c463c7db9636)
+![Screenshot 2024-12-02 185714](https://github.com/user-attachments/assets/6238ea59-fe05-4086-9191-5ee091c35a70)
 Image 1 showing the setup for the project.
 
 
